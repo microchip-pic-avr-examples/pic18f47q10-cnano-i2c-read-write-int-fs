@@ -65,7 +65,7 @@ The following configurations must be made for this project:
     
 <br><img src="images/properties.png" width="600">
 
-4. Program the project to the board: right click on the project and click *Make and Program Device*
+4. Program the project to the board: right click on the project and click *Make and Program Device*.
 
 Demo:
 
